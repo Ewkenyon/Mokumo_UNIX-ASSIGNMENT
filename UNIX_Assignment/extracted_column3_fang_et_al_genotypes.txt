@@ -1,0 +1,17 @@
+1     Group
+22    TRIPS
+15    ZDIPL
+17    ZLUXR
+10    ZMHUE
+290   ZMMIL
+1256  ZMMLR
+27    ZMMMR
+900   ZMPBA
+41    ZMPIL
+34    ZMPJA
+75    ZMXCH
+69    ZMXCP
+6     ZMXIL
+7     ZMXNO
+4     ZMXNT
+9     ZPERR
